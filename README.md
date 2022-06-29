@@ -1,1 +1,1 @@
-# valida-o_CEP USANDO API 
+Utiliza a API Publica do ViaCEP para realizar consultas
